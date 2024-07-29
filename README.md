@@ -61,11 +61,4 @@ Future enhancements could include integrating additional sensors for detecting d
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-We thank our supervisors, Prof. Ravi S and Dr. Vijay H M, for their guidance, and KLE Technological University for providing the resources to undertake this project.
-
----
-
-*This project is part of the academic curriculum for the BE program in Electronics and Communication Engineering at KLE Technological University for the academic year 2023-2024.*
 
